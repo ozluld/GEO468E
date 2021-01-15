@@ -1,4 +1,4 @@
-# GEO468E Jupiter Notebook Homework
+# GEO468E Jupyter Notebook Homework
 This repository contains documentation and code for Normalized Burn Ratio(NBR) index application via Jupyter Notebook within this course. All the versions can be found at "Releases" tab. Please consider the last version named "GEO468E_nbr_v2.ipynb".
 
 ## Aim
