@@ -1,5 +1,5 @@
 # GEO468E Jupyter Notebook Homework
-This repository contains documentation and code for Normalized Burn Ratio(NBR) index application via Jupyter Notebook within this course. All the versions can be found at "Releases" tab. Please consider the last version named "GEO468E_nbr_v2.ipynb".
+This repository contains documentation and code for Normalized Burn Ratio(NBR) index application via Jupyter Notebook within this course. All the versions can be found at "Releases" tab. Please consider the last version of notebook named "GEO468E_nbr_v2.ipynb".
 
 ## Aim
 Aim of this project is to show the burnt areas by applying the Normalized Burn Ratio index to the required satellite images. As a scope of this project, Menemen district of Izmir city is chosen. According to the official statements, the fire that broke out in Menemen on June 17, 2008 reached an impact area of approximately 500 hectares despite the air and land interventions of the İzmir Regional Directorate of Forestry and caused a total of 150 hectares of land to burn completely.
