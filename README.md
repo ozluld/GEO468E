@@ -16,6 +16,7 @@ Healthy vegetation shows a very high reflectance in the NIR, and low reflectance
 - ![NBR_Image](logo/nbr.png)
 
 ### Thank you for your interest !
-### If you need to get in touch, please feel free:
+### This repository is prepared by Levent Doğukan Özlü.
+If you need to get in touch, please feel free:
 - ozlul17@itu.edu.tr
 - ![ITU_Logo](logo/itu.png)
