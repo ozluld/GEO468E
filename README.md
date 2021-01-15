@@ -10,7 +10,7 @@ To apply NBR index, Landsat 5(TM) image is obtained from USGS Earth Explorer. Ac
 - Band 5: Shortwave Infrared
 
 ## Normalized Burn Ratio(NBR)
-Healthy vegetation shows a very high reflectance in the NIR, and low reflectance in the SWIR portion of the spectrum. Also, recently burnt areas display low reflectance in the NIR and high reflectance in the SWIR. To benefit from the magnitude of spectral difference, NBR utilizes the ratio between NIR and SWIR bands, according to the formula shown below.
+Healthy vegetation have a high reflectance in the NIR while they have low reflectance in the SWIR portion of the spectrum. Also for burnt areas that damaged from a fire show low reflectance in NIR and high reflectance in the SWIR. So NBR utilizes this opposite difference in order to show burnt areas according to the formula shown below.
 - ![NBR Formula](logo/NBR_formula.jpg)
 #### NBR Image of burnt area:
 - ![NBR_Image](logo/nbr.png)
